@@ -59,7 +59,7 @@ The two weekly lectures will introduce new concepts and provide opportunities to
 
 
 ### Evaluation
-It takes practice to acquire and internalize data science skills, and what you get out of this course will be proportional to the effort you put in. Practice as much as you can. To pass, students are expected to attend all lectures, participate actively during class, and submit at least 6 of the 7 problem sets with demonstrated effort to complete all questions. If you are unable to make a lecture or can not meet a problem set deadline, please email the instructor beforehand.  
+It takes practice to acquire and internalize data science skills, and what you get out of this course will be proportional to the effort you put in. Practice as much as you can. To pass, students are expected to attend all lectures, participate actively during class, and submit at least 5 of the 6 problem sets with demonstrated effort to complete all questions. If you are unable to make a lecture or can not meet a problem set deadline, please email the instructor beforehand.  
 
 
 ### Course materials
@@ -101,11 +101,11 @@ Class#  |  Date  |  Topic  | Readings |
 -- |  April 1 (Wed)  |  SPRING BREAK  |
 5 |  April 6 (Mon)  |  Data wrangling part 1 (dplyr::filter, mutate, select, arrange)  | [Link](https://github.com/nt246/NTRES6940-data-science/blob/master/lecture_notes/lesson5-data-wrangling1.md) |
 6  |  April 8 (Wed)  |  Data wrangling part 2 (dplyr::summarize, group_by)  | [Link](https://github.com/nt246/NTRES6940-data-science/blob/master/lecture_notes/lesson6-data-wrangling2.md) |
-7  |  April 13 (Mon)  |  Plotting with ggplot part 2 + good coding practices  |
-8  |  April 15 (Wed)  |  Tidy data (what is tidy data and how to handle untidy data) + file I/O and tibbles  |
-9  |  April 20 (Mon)  |  Relational data (join functions and lookup)  |
-10  |  April 22 (Wed)  |  Factors + basic string manipulation + dealing with dates and times  |
-11  | April 27 (Mon)  |  Writing functions in R   |
-12  | April 29 (Wed)  |  Iteration (for loops and map functions)  |
+7  |  April 13 (Mon)  |  Plotting with ggplot part 2 + good coding practices  | [Link](https://github.com/nt246/NTRES6940-data-science/blob/master/lecture_notes/lesson7-ggplot-part2.md)
+8  |  April 15 (Wed)  |  Tidy data (what is tidy data and how to handle untidy data) + file I/O and tibbles  | [Link](https://github.com/nt246/NTRES6940-data-science/blob/master/lecture_notes/lesson8-tidy-data.md)
+9  |  April 20 (Mon)  |  Relational data (join functions) and factors  |  [Link](https://github.com/nt246/NTRES6940-data-science/blob/master/lecture_notes/lesson9-relational-data.md)  |
+10  |  April 22 (Wed)  |  Collaborating with GitHub  |  [Link](https://github.com/nt246/NTRES6940-data-science/blob/master/lecture_notes/lesson10-collaboration.md)  |
+11  | April 27 (Mon)  |  Collaborating with GitHub - continued   |  [Link](https://github.com/nt246/NTRES6940-data-science/blob/master/lecture_notes/lesson10-collaboration.md)  |
+12  | April 29 (Wed)  |  Iteration (for loops)  |  [Link](https://github.com/nt246/NTRES6940-data-science/blob/master/lecture_notes/lesson12-for-loops.md)
 13  |  May 4 (Mon)  |  Review and discussion of good practices for reproducible workflows  |
 &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; |
